@@ -1,0 +1,4 @@
+KGBCoin
+=======
+
+KGB Coin
